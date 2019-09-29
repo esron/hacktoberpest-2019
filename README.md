@@ -19,6 +19,6 @@ Para mais informações acesse a [postagem](https://medium.com/sysvale/hacktober
 | [SysTranca Server](https://github.com/esron/systranca-server) | JavaScript | Express |
 | [Template TCC UNIVASF](https://github.com/Gabrielr2508/template-tcc-latex-univasf) | LaTex  | -- |
 | [Curriculum](https://github.com/Gabrielr2508/curriculum) | Javascript, PHP | Laravel, Vue.js |
-| [digitalocean-droplet-manager](https://github.com/lissonpsantos2/digitalocean-droplet-manager) | PHP | Lumen |
+| [DigitalOcean Droplet Manager](https://github.com/lissonpsantos2/digitalocean-droplet-manager) | PHP | Lumen |
 
 Quer que o seu projeto apareça na lista? Crie uma _merge request_ ou mande uma email para esron.silva@sysvale.com.
