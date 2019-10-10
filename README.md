@@ -21,5 +21,6 @@ Para mais informações acesse a [postagem](https://medium.com/sysvale/hacktober
 | [Curriculum](https://github.com/Gabrielr2508/curriculum) | Javascript, PHP | Laravel, Vue.js |
 | [DigitalOcean Droplet Manager](https://github.com/lissonpsantos2/digitalocean-droplet-manager) | PHP | Lumen |
 | [Quote-a-lang Server](https://github.com/viniciusarre/quote-a-lang-server)         | Javascript           | Node.js & Express  |
+| [Quote-a-lang Crawler](https://github.com/viniciusarre/quote-a-lang-crawler/)      | Python           | Tornado, requests and bs4  
 
 Quer que o seu projeto apareça na lista? Crie uma _merge request_ ou mande uma email para esron.silva@sysvale.com.
